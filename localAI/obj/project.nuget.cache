@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "4uPBpv3W21k=",
+  "success": true,
+  "projectFilePath": "D:\\projects\\LocalAI\\localAI\\localAI\\localAI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amir kian\\.nuget\\packages\\microsoft.extensions.ai\\10.8.0\\microsoft.extensions.ai.10.8.0.nupkg.sha512",
+    "C:\\Users\\amir kian\\.nuget\\packages\\microsoft.extensions.ai.abstractions\\10.8.0\\microsoft.extensions.ai.abstractions.10.8.0.nupkg.sha512",
+    "C:\\Users\\amir kian\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\10.0.10\\microsoft.extensions.caching.abstractions.10.0.10.nupkg.sha512",
+    "C:\\Users\\amir kian\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.10\\microsoft.extensions.dependencyinjection.abstractions.10.0.10.nupkg.sha512",
+    "C:\\Users\\amir kian\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.10\\microsoft.extensions.logging.abstractions.10.0.10.nupkg.sha512",
+    "C:\\Users\\amir kian\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.10\\microsoft.extensions.primitives.10.0.10.nupkg.sha512",
+    "C:\\Users\\amir kian\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512",
+    "C:\\Users\\amir kian\\.nuget\\packages\\ollamasharp\\5.5.2\\ollamasharp.5.5.2.nupkg.sha512",
+    "C:\\Users\\amir kian\\.nuget\\packages\\system.diagnostics.diagnosticsource\\10.0.10\\system.diagnostics.diagnosticsource.10.0.10.nupkg.sha512",
+    "C:\\Users\\amir kian\\.nuget\\packages\\system.io.pipelines\\10.0.10\\system.io.pipelines.10.0.10.nupkg.sha512",
+    "C:\\Users\\amir kian\\.nuget\\packages\\system.numerics.tensors\\10.0.10\\system.numerics.tensors.10.0.10.nupkg.sha512",
+    "C:\\Users\\amir kian\\.nuget\\packages\\system.text.encodings.web\\10.0.10\\system.text.encodings.web.10.0.10.nupkg.sha512",
+    "C:\\Users\\amir kian\\.nuget\\packages\\system.text.json\\10.0.10\\system.text.json.10.0.10.nupkg.sha512",
+    "C:\\Users\\amir kian\\.nuget\\packages\\system.threading.channels\\10.0.10\\system.threading.channels.10.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
