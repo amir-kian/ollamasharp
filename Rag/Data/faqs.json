@@ -1,0 +1,182 @@
+﻿[
+  {
+    "id": 1,
+    "question": "How can I reset my password?",
+    "answer": "Go to the login page, click Forgot Password, and enter your registered email address. You will receive a password reset link by email. Follow the instructions to create a new password.",
+    "category": "Account"
+  },
+  {
+    "id": 2,
+    "question": "What payment methods do you accept?",
+    "answer": "We accept Visa, Mastercard, and online bank transfers. All payments are processed through secure payment gateways.",
+    "category": "Payment"
+  },
+  {
+    "id": 3,
+    "question": "How can I create an account?",
+    "answer": "Click the Register button on the homepage. Enter your name, email address, and password, then submit the registration form. You may need to verify your email address.",
+    "category": "Account"
+  },
+  {
+    "id": 4,
+    "question": "How can I change my email address?",
+    "answer": "Log in to your account, navigate to Account Settings, and select Change Email Address. Enter your new email address and verify it using the confirmation link.",
+    "category": "Account"
+  },
+  {
+    "id": 5,
+    "question": "I forgot my username. How can I recover it?",
+    "answer": "Your username is usually the email address you used during registration. If you cannot remember it, contact customer support with your registered phone number.",
+    "category": "Account"
+  },
+  {
+    "id": 6,
+    "question": "How can I update my profile information?",
+    "answer": "Log in to your account and open the Profile section. You can update your first name, last name, phone number, and address. Click Save Changes when finished.",
+    "category": "Account"
+  },
+  {
+    "id": 7,
+    "question": "Is it possible to delete my account?",
+    "answer": "Yes, you can request account deletion by contacting customer support. Our team will verify your identity and guide you through the deletion process.",
+    "category": "Account"
+  },
+  {
+    "id": 8,
+    "question": "How can I change my password?",
+    "answer": "Log in to your account, go to Security Settings, and select Change Password. Enter your current password and your new password twice, then save your changes.",
+    "category": "Account"
+  },
+  {
+    "id": 9,
+    "question": "How long does delivery take?",
+    "answer": "Standard delivery usually takes between 3 and 5 business days. Delivery times may vary depending on your location and product availability.",
+    "category": "Delivery"
+  },
+  {
+    "id": 10,
+    "question": "How can I track my order?",
+    "answer": "Log in to your account and open the My Orders section. Select your order to view its current status and tracking information.",
+    "category": "Orders"
+  },
+  {
+    "id": 11,
+    "question": "Can I cancel my order?",
+    "answer": "You can cancel your order before it has been shipped by contacting customer support. Once an order has been shipped, cancellation may no longer be possible.",
+    "category": "Orders"
+  },
+  {
+    "id": 12,
+    "question": "Can I change my delivery address after placing an order?",
+    "answer": "You can request a delivery address change before your order is shipped. Contact customer support as soon as possible with your order number and updated address.",
+    "category": "Delivery"
+  },
+  {
+    "id": 13,
+    "question": "What should I do if my order has not arrived?",
+    "answer": "First, check your order tracking information. If the estimated delivery date has passed, contact customer support with your order number so we can investigate.",
+    "category": "Delivery"
+  },
+  {
+    "id": 14,
+    "question": "Do you offer international shipping?",
+    "answer": "International shipping availability depends on the destination country. Contact customer support to confirm whether delivery is available to your location.",
+    "category": "Delivery"
+  },
+  {
+    "id": 15,
+    "question": "How much does shipping cost?",
+    "answer": "Shipping costs depend on the delivery address, package size, and selected delivery method. The shipping fee is displayed during checkout before you complete your payment.",
+    "category": "Delivery"
+  },
+  {
+    "id": 16,
+    "question": "What is your return policy?",
+    "answer": "Customers can request a return within 14 days of receiving their order, provided the product meets the return conditions. Contact customer support to start a return request.",
+    "category": "Returns"
+  },
+  {
+    "id": 17,
+    "question": "How can I request a refund?",
+    "answer": "Contact customer support with your order number and reason for requesting a refund. After your return or refund request is approved, the payment will be processed through the original payment method.",
+    "category": "Refunds"
+  },
+  {
+    "id": 18,
+    "question": "How long does a refund take?",
+    "answer": "Refunds are generally processed within 5 to 10 business days after approval. The time required for the funds to appear in your account depends on your bank or payment provider.",
+    "category": "Refunds"
+  },
+  {
+    "id": 19,
+    "question": "Can I exchange a damaged product?",
+    "answer": "Yes, if you receive a damaged or defective product, contact customer support within 48 hours of delivery. Include your order number and photographs of the damaged item.",
+    "category": "Returns"
+  },
+  {
+    "id": 20,
+    "question": "What should I do if I receive the wrong product?",
+    "answer": "Contact customer support and provide your order number and a description of the incorrect item. Our team will help arrange a replacement or return.",
+    "category": "Returns"
+  },
+  {
+    "id": 21,
+    "question": "Is online payment secure?",
+    "answer": "Yes, payments are processed through secure payment gateways. We use security measures to protect payment transactions and do not store your full card details on our servers.",
+    "category": "Payment"
+  },
+  {
+    "id": 22,
+    "question": "Why was my payment declined?",
+    "answer": "A payment may be declined because of insufficient funds, incorrect card information, bank security restrictions, or an expired card. Contact your bank or try another payment method.",
+    "category": "Payment"
+  },
+  {
+    "id": 23,
+    "question": "Can I get an invoice for my purchase?",
+    "answer": "Yes, you can download your invoice from the My Orders section after your payment has been completed. If you cannot find it, contact customer support.",
+    "category": "Payment"
+  },
+  {
+    "id": 24,
+    "question": "How can I contact customer support?",
+    "answer": "You can contact our support team by emailing support@example.com. Please include your order number when asking about an existing purchase.",
+    "category": "Support"
+  },
+  {
+    "id": 25,
+    "question": "What are your customer support working hours?",
+    "answer": "Our customer support team is available Monday through Friday, from 9:00 AM to 5:00 PM.",
+    "category": "Support"
+  },
+  {
+    "id": 26,
+    "question": "How long does it take to receive a response from support?",
+    "answer": "Our support team usually responds to customer inquiries within 24 business hours. Complex requests may require additional investigation.",
+    "category": "Support"
+  },
+  {
+    "id": 27,
+    "question": "Do you have a mobile application?",
+    "answer": "You can access our services through our website using a mobile browser. Information about a dedicated mobile application is available from customer support.",
+    "category": "General"
+  },
+  {
+    "id": 28,
+    "question": "Can I place an order without creating an account?",
+    "answer": "Yes, guest checkout is available. You can provide your email address and delivery information during checkout without registering an account.",
+    "category": "Orders"
+  },
+  {
+    "id": 29,
+    "question": "What happens if I enter an incorrect shipping address?",
+    "answer": "If your order has not been shipped, contact customer support immediately to request an address correction. If the package is already in transit, changing the address may not be possible.",
+    "category": "Delivery"
+  },
+  {
+    "id": 30,
+    "question": "How can I protect my account from unauthorized access?",
+    "answer": "Use a strong and unique password, never share your login credentials, and change your password if you suspect unauthorized access. Always log out when using a shared computer.",
+    "category": "Security"
+  }
+]
